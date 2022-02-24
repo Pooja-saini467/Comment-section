@@ -20,9 +20,7 @@
 <img src="https://github.com/Pooja-saini467/Comment-section/blob/main/design/desktop-design.jpg">
 
 ## Demo
-
- 
-
+https://user-images.githubusercontent.com/90523453/155546765-144b7a54-950a-44cc-83c2-5a8835bb218f.mp4
 
 ## Live Link
 - Pooja-saini(https://pooja-saini467.github.io/Comment-section/)
