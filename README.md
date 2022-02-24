@@ -25,7 +25,7 @@
 
 
 ## Live Link
-- Pooja-saini467(https://pooja-saini467.github.io/ecommerce-page/)
+- Pooja-saini(https://pooja-saini467.github.io/Comment-section/)
 
 
 ## My Process
